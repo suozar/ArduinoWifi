@@ -1,6 +1,7 @@
 ## Arduino Wifi
 
-Merupakan rancangan alat dengan menghubungkan arduino dengan jaringan internet melalui wifi adapter
+Merupakan rancangan alat dengan menghubungkan arduino dengan jaringan internet melalui wifi adapter.
+Dengan menggunakan sensor suhu prototype alat akan mengirimkan keadaan suhu sekarang secara terus menerus ke server. 
 
 ##Picture
 
